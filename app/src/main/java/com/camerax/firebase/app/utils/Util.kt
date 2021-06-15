@@ -13,8 +13,6 @@ import java.util.*
 object Util {
 
      const val DATE_FORMAT = "dd-MM-yyyy HH:mm:ss"
-     const val IMAGE_PATH ="sdcard/photos/DCIM/Camera/CameraX "
-
 
      private const val REQUEST_CODE_PERMISSION = 101
 
