@@ -1,6 +1,6 @@
 # Android-CameraX-Firebase
 
-## Architecture Used => MVVM
+## Architecture Pattern => MVVM
 ## Features
 1. Low Latency (Camera) Hardware access.
 2. Direclty upload the data to the FirebaseCloudStorage.
